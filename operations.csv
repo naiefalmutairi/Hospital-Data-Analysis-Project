@@ -1,0 +1,6 @@
+Operation_ID;Type;Department;Success_Rate;Month
+1;Surgery;Cardiology;0.9;Jan
+2;Checkup;Endocrinology;1;Jan
+3;Emergency;ER;0.85;Jan
+4;Minor Surgery;Pediatrics;0.95;Jan
+...;...;...;...;...

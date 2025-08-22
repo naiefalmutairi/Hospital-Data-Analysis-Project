@@ -1,0 +1,6 @@
+Staff_ID;Name;Department;Role;Patients_Attended;Avg_Treatment_Success
+1;Dr. Ahmed;Cardiology;Doctor;50;0.92
+2;Dr. Sara;Endocrinology;Doctor;40;0.88
+3;Nurse Ali;Cardiology;Nurse;60;0.95
+4;Nurse Lina;Pediatrics;Nurse;45;0.98
+...;...;...;...;...;...
